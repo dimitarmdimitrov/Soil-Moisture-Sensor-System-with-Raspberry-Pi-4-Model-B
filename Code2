@@ -1,4 +1,3 @@
-
 #! /usr/bin/env python
 # python programa to comunicate with an MCP3008
 # Import our SpiDev wrapper and our sleep function
